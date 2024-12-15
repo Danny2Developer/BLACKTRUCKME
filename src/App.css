@@ -1,0 +1,418 @@
+nav {
+  letter-spacing: 1px;
+  /* background-color: transparent !important; */
+}
+nav .nav-list a.active {
+  color: #fcce53;
+}
+.swiper-button-prev,
+.swiper-button-next {
+  color: #fcce53 !important;
+  opacity: 100% !important;
+}
+.swiper-pagination-bullet-active {
+  background-color: #fcce53 !important;
+}
+.swiper-button-next {
+  font-size: 200px;
+  display: block !important;
+  z-index: 100 !important;
+  opacity: 100% !important;
+}
+.swiper-button-prev::after {
+  color: red !important;
+}
+.swiper-button-prev.swiper-button-disabled,
+.swiper-button-next.swiper-button-disabled {
+  opacity: 0;
+}
+.car-fleet .header-banner {
+  background-image: linear-gradient(
+      65deg,
+      rgba(0, 0, 0, 0.3),
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url(./assets/images/car10.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.faq .header-banner {
+  background-image: linear-gradient(
+      65deg,
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.1)
+    ),
+    url(./assets/images/cop11.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.reservation .header-banner {
+  background-image: linear-gradient(
+      65deg,
+      rgba(0, 0, 0, 0.3),
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url(./assets/images/interior2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.ref .header-banner {
+  background-image: linear-gradient(
+      65deg,
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(./assets/images/party2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.ref2 .header-banner {
+  background-image: linear-gradient(
+      65deg,
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(./assets/images/wed5.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.out .header-banner {
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 2),
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url(./assets/images/keys1.jpg);
+  background-position: bottom;
+  background-size: cover;
+}
+.personal-dv .header-banner {
+  background-image: linear-gradient(
+      65deg,
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 0.3),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url(./assets/images/driver4.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.diff .header-banner {
+  background-image: linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url(./assets/images/carly2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.about-us .header-banner {
+  background-image: linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 1),
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url(./assets/images/rentalbanner1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.contact .header-banner {
+  background-image: linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 1),
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url(./assets/images/coppy.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.jet {
+  background-image: linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 1),
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url(./assets/images/jet1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.wedding .header-banner {
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 2),
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url(./assets/images/wed9.jpg);
+  background-position: bottom;
+  background-size: cover;
+}
+.long-time-rental .header-banner {
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 2),
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url(./assets/images/partybus10.jpg);
+  background-position: bottom;
+  background-size: cover;
+}
+.photoshoot .header-banner {
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 2),
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url(./assets/images/prom5.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.baby-shower .header-banner {
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 2),
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url(./assets/images/baby7.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.private-jet-rental .header-banner {
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.2)
+    ),
+    url(./assets/images/jet.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.reservation .react-international-phone-country-selector-button {
+  height: 45px;
+  padding: 3px 5px;
+  background-color: #242427 !important;
+  border-color: #fcce53;
+}
+.reservation .react-international-phone-country-selector-button:focus {
+  border-color: red !important;
+  background-color: #fcce53;
+}
+.reservation .react-international-phone-flag-emoji {
+  width: 28px;
+  height: 28px;
+}
+.ddate span,
+.ref span {
+  font-family: "DM Sans", "sans-serif";
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 500;
+}
+.ddate div[data-slot="input-wrapper"],
+.ref div[data-slot="input-wrapper"] {
+  padding: 0.75rem 1rem;
+  height: 47px !important;
+  background-color: #242427;
+  border-radius: 0.5rem;
+  font-size: 0.875rem;
+  line-height: 1.35rem;
+  border: 1px solid #fcce53;
+}
+.long-time-rental .react-international-phone-country-selector-button {
+  height: 45px;
+  padding: 3px 5px;
+  background-color: #242427 !important;
+  border-color: #fcce53;
+}
+.long-time-rental .react-international-phone-country-selector-button:focus {
+  border-color: red !important;
+  background-color: #fcce53;
+}
+.long-time-rental .react-international-phone-flag-emoji {
+  width: 28px;
+  height: 28px;
+}
+.car-fleet .swiper-pagination-bullet-active {
+  background-color: #fcce53 !important;
+}
+.car-fleet .swiper-pagination-bullet {
+  width: 17px;
+  height: 6px;
+  border-radius: 4px;
+  background-color: #3f4044;
+  opacity: 0.8;
+}
+.ffz a {
+  color: white;
+  opacity: 90%;
+}
+.dream {
+  background-color: #24262d;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 1500'%3E%3Cdefs%3E%3CradialGradient id='a' gradientUnits='objectBoundingBox'%3E%3Cstop offset='0' stop-color='%23FCCE53'/%3E%3Cstop offset='1' stop-color='%2324262D'/%3E%3C/radialGradient%3E%3ClinearGradient id='b' gradientUnits='userSpaceOnUse' x1='0' y1='750' x2='1550' y2='750'%3E%3Cstop offset='0' stop-color='%23907a40'/%3E%3Cstop offset='1' stop-color='%2324262D'/%3E%3C/linearGradient%3E%3Cpath id='s' fill='url(%23b)' d='M1549.2 51.6c-5.4 99.1-20.2 197.6-44.2 293.6c-24.1 96-57.4 189.4-99.3 278.6c-41.9 89.2-92.4 174.1-150.3 253.3c-58 79.2-123.4 152.6-195.1 219c-71.7 66.4-149.6 125.8-232.2 177.2c-82.7 51.4-170.1 94.7-260.7 129.1c-90.6 34.4-184.4 60-279.5 76.3C192.6 1495 96.1 1502 0 1500c96.1-2.1 191.8-13.3 285.4-33.6c93.6-20.2 185-49.5 272.5-87.2c87.6-37.7 171.3-83.8 249.6-137.3c78.4-53.5 151.5-114.5 217.9-181.7c66.5-67.2 126.4-140.7 178.6-218.9c52.3-78.3 96.9-161.4 133-247.9c36.1-86.5 63.8-176.2 82.6-267.6c18.8-91.4 28.6-184.4 29.6-277.4c0.3-27.6 23.2-48.7 50.8-48.4s49.5 21.8 49.2 49.5c0 0.7 0 1.3-0.1 2L1549.2 51.6z'/%3E%3Cg id='g'%3E%3Cuse href='%23s' transform='scale(0.12) rotate(60)'/%3E%3Cuse href='%23s' transform='scale(0.2) rotate(10)'/%3E%3Cuse href='%23s' transform='scale(0.25) rotate(40)'/%3E%3Cuse href='%23s' transform='scale(0.3) rotate(-20)'/%3E%3Cuse href='%23s' transform='scale(0.4) rotate(-30)'/%3E%3Cuse href='%23s' transform='scale(0.5) rotate(20)'/%3E%3Cuse href='%23s' transform='scale(0.6) rotate(60)'/%3E%3Cuse href='%23s' transform='scale(0.7) rotate(10)'/%3E%3Cuse href='%23s' transform='scale(0.835) rotate(-40)'/%3E%3Cuse href='%23s' transform='scale(0.9) rotate(40)'/%3E%3Cuse href='%23s' transform='scale(1.05) rotate(25)'/%3E%3Cuse href='%23s' transform='scale(1.2) rotate(8)'/%3E%3Cuse href='%23s' transform='scale(1.333) rotate(-60)'/%3E%3Cuse href='%23s' transform='scale(1.45) rotate(-30)'/%3E%3Cuse href='%23s' transform='scale(1.6) rotate(10)'/%3E%3C/g%3E%3C/defs%3E%3Cg transform='rotate(0 0 0)'%3E%3Cg transform='rotate(0 0 0)'%3E%3Ccircle fill='url(%23a)' r='3000'/%3E%3Cg opacity='0.5'%3E%3Ccircle fill='url(%23a)' r='2000'/%3E%3Ccircle fill='url(%23a)' r='1800'/%3E%3Ccircle fill='url(%23a)' r='1700'/%3E%3Ccircle fill='url(%23a)' r='1651'/%3E%3Ccircle fill='url(%23a)' r='1450'/%3E%3Ccircle fill='url(%23a)' r='1250'/%3E%3Ccircle fill='url(%23a)' r='1175'/%3E%3Ccircle fill='url(%23a)' r='900'/%3E%3Ccircle fill='url(%23a)' r='750'/%3E%3Ccircle fill='url(%23a)' r='500'/%3E%3Ccircle fill='url(%23a)' r='380'/%3E%3Ccircle fill='url(%23a)' r='250'/%3E%3C/g%3E%3Cg transform='rotate(0 0 0)'%3E%3Cuse href='%23g' transform='rotate(10)'/%3E%3Cuse href='%23g' transform='rotate(120)'/%3E%3Cuse href='%23g' transform='rotate(240)'/%3E%3C/g%3E%3Ccircle fill-opacity='0.1' fill='url(%23a)' r='3000'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  /* background-attachment: fixed; */
+  background-size: cover;
+}
+
+.banner {
+  --mask: radial-gradient(60px at 0 75%, #0000 98%, #000) 60px 50%/100% 240px
+      repeat-y,
+    radial-gradient(60px at 50% 25%, #000 99%, #0000 101%) left/120px 240px
+      repeat-y;
+  -webkit-mask: var(--mask);
+  mask: var(--mask);
+  /* clip-path: polygon(21% 0, 100% 0%, 100% 100%, 1% 100%); */
+  /* clip-path: polygon(14% 0, 100% 0%, 100% 100%, 1% 100%); */
+}
+/* .banner {
+  background-image: linear-gradient(
+      55deg,
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0)
+    ),
+    url(./assets/images/car6z3.jpg);
+  background-position: left;
+  background-size: cover;
+} */
+.bgg {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(255, 0, 0, 0),
+      rgba(255, 0, 0, 0),
+      rgb(18, 19, 23)
+    ),
+    url(./assets/images/Baby5.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.bggs {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(255, 0, 0, 0),
+      rgba(255, 0, 0, 0),
+      rgb(18, 19, 23)
+    ),
+    url(./assets/images/jet.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.navvy > a,
+.navvy .ss {
+  font-weight: 600;
+}
+.each-hold .carddy {
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.911);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.26);
+}
+#react-aria8094749777 {
+  display: none !important;
+}
+#navigation {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 15;
+  transition: 0.2s ease-in-out;
+}
+.ca {
+  height: 100%;
+  clip-path: polygon(0 0, 38% 0, 65% 100%, 0% 100%);
+}
+.ca2 {
+  height: 100%;
+  clip-path: polygon(0 0, 38% 0, 65% 100%, 0% 100%);
+  rotate: 180deg;
+}
+.fleets {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  column-gap: 20px;
+}
+@media screen and (min-width: 1440px) {
+  .fleets {
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  }
+}
+@media screen and (max-width: 600px) {
+  .header .content {
+    width: 0%;
+  }
+  .car-details .mySwiper2 {
+    min-height: 100px !important;
+  }
+}
+@media screen and (max-width: 480px) {
+  .bbl {
+    background-image: linear-gradient(
+        to right,
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ),
+      url(./assets/images/party7.jpeg);
+    background-position: center;
+    background-size: cover;
+    padding: 25px 0px;
+  }
+  .bbl2 {
+    background-image: linear-gradient(
+        to right,
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ),
+      url(./assets/images/wed2.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 25px 0px;
+  }
+  .header .content {
+    width: 0%;
+  }
+  .banner .overlay {
+    opacity: 55%;
+  }
+  .header {
+    min-height: 485px !important;
+  }
+  .banner {
+    background-image: linear-gradient(
+        55deg,
+        rgba(0, 0, 0, 0.7),
+        rgba(0, 0, 0, 0.3),
+        rgba(0, 0, 0, 0.2)
+      ),
+      url(./assets/images/car6z2.jpg);
+
+    -webkit-mask: none !important;
+    mask: none !important;
+  }
+  .fleets {
+    grid-template-columns: 1fr;
+  }
+}
+@media screen and (max-width: 290px) {
+  .fleets .top {
+    min-height: 100px;
+  }
+}

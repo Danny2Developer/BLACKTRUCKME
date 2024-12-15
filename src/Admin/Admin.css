@@ -1,0 +1,115 @@
+.dashboard-sidebar .links a.active {
+  background-color: #004fa2;
+  color: white;
+}
+.mobz.active {
+  transform: translateX(0);
+  transition: 0.3s ease-in-out;
+  opacity: 1;
+}
+.mmm input, .mmm select{
+  border-radius: 8px;
+}
+.mmm input:focus, .mmm select:focus{
+  border-color: #FCCE53;
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+/* :root,
+[data-theme] {
+  color: unset !important;
+  background-color: unset !important;
+} */
+.view-car .car-description p {
+  color: white;
+  opacity: 80%;
+}
+
+.view-car .details h1 {
+  color: white;
+}
+.view-car .details p {
+  color: white;
+  opacity: 70%;
+}
+
+.files-dropzone-list {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  padding: 10px;
+  border: 1px dashed #d3d3d3;
+  cursor: pointer;
+}
+
+.files-buttons {
+  border-top: 1px solid #d3d3d3;
+  cursor: pointer;
+}
+.files-button-submit {
+  display: inline-block;
+  text-align: center;
+  height: 40px;
+  line-height: 40px;
+  width: 50%;
+  box-sizing: border-box;
+  border-right: 1px solid #d3d3d3;
+}
+.files-button-submit:before {
+  content: "Submit";
+}
+.files-button-clear {
+  display: inline-block;
+  text-align: center;
+  height: 40px;
+  line-height: 40px;
+  width: 50%;
+  box-sizing: border-box;
+}
+.files-button-clear:before {
+  content: "Clear";
+}
+.files-list {
+  width: 300px;
+}
+.files-list ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.files-list li:last-child {
+  border: none;
+}
+.files-list-item {
+  height: 60px;
+  padding: 10px 0px 10px 10px;
+  /*border-bottom: 1px solid #D3D3D3;*/
+}
+.files-list-item-content {
+  float: left;
+  padding-top: 5px;
+  padding-left: 10px;
+  width: calc(100% - 130px);
+}
+.files-list-item-content-item {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.files-list-item-content-item-1 {
+  font-size: 20px;
+  line-height: 30px;
+}
+.files-list-item-content-item-2 {
+  font-size: 16px;
+  line-height: 20px;
+}
+.files-list-item-preview {
+  height: 60px;
+  width: 60px;
+  float: left;
+}
+.files-list-item-preview-image {
+  height: 100%;
+  width: 100%;
+}
