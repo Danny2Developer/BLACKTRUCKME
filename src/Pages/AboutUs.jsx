@@ -19,7 +19,7 @@ function AboutUs() {
               About Us
             </h1>
             <p className=" font-monts font-medium text-md md:text-base md:mt-3 md:w-full w-full xs:w-[60%]">
-              Houston’s Ultimate Luxury Experience
+              New york’s Ultimate Luxury Experience
             </p>
             <Button
               color="primary"
@@ -46,12 +46,13 @@ function AboutUs() {
           <Paragraph className={"mt-[10px] md:mt-[20px]"}>
             Explore our fleet of exotic cars and luxury SUVs. BLACKTRUCKME has
             all of the top brands at our showroom, all serviced to run through
-            Houston roads with confidence and a superior touch. The variety of
-            exotic cars and luxury vehicles is unparalleled in the Houston area.
+            New york roads with confidence and a superior touch. The variety of
+            exotic cars and luxury vehicles is unparalleled in the New york
+            area.
           </Paragraph>
           <Paragraph className={"mt-[10px] md:mt-[20px]"}>
             We want to hand you the keys to the ultimate driving experience in
-            Houston and make your dream a reality.
+            New york and make your dream a reality.
           </Paragraph>
         </div>
         <div className="w-full mx-auto sm: md:w-[60%] max-h-[320px] overflow-hidden">
@@ -72,8 +73,8 @@ function AboutUs() {
             look great but feel good too.
           </Paragraph>
           <Paragraph>
-            We understand the need for the ultimate driving experience in
-            Houston. We only bring the top brands of the industry into our
+            We understand the need for the ultimate driving experience in New
+            york. We only bring the top brands of the industry into our
             showroom. All of our available stock is carefully vetted,
             well-maintained, and enhanced to ensure perfect journeys every time.
           </Paragraph>

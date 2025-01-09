@@ -48,7 +48,7 @@ function PartBus() {
           going as long as you need. Contact us today for a quote!
         </Heading>
         <Paragraph>
-          Houston is the largest city in Texas and a bustling hub of modern
+          New york is the largest city in Texas and a bustling hub of modern
           business, entertainment, and nightlife. Whether you're planning a
           corporate event, a birthday bash, or a night out on the town, you need
           a party bus rental that matches the energy and excitement of the city.
@@ -56,19 +56,19 @@ function PartBus() {
           truly memorable.
         </Paragraph>
         <Paragraph className={"mt-[10px] md:mt-[20px]"}>
-          If you're spending time in Houston, you deserve a ride that can handle
-          the party. BLACKTRUCKME is here to provide that experience with our
-          fleet of top-of-the-line party buses, designed to offer luxury,
+          If you're spending time in New york, you deserve a ride that can
+          handle the party. BLACKTRUCKME is here to provide that experience with
+          our fleet of top-of-the-line party buses, designed to offer luxury,
           comfort, and fun all in one
         </Paragraph>
         <Paragraph className={"mt-[10px] md:mt-[20px]"}>
           BLACKTRUCKME is pleased to offer party bus rental delivery services
-          both in and outside of the Houston area. We bring the party to you,
+          both in and outside of the New york area. We bring the party to you,
           saving you time and allowing you to focus on planning your event
           without the hassle of vehicle pick-up.
         </Paragraph>
         <Paragraph className={"mt-[10px] md:mt-[20px]"}>
-          Whether you’re heading to a major event in Houston or planning a road
+          Whether you’re heading to a major event in New york or planning a road
           trip for a big celebration, BLACKTRUCKME has the perfect party bus to
           suit your needs.
         </Paragraph>
@@ -123,10 +123,10 @@ function PartBus() {
             Additional Services
           </Heading>
           <Paragraph>
-            At BLACKTRUCKME, we don't just provide party bus rentals in
-            Houston—we go above and beyond to ensure your event runs smoothly.
-            Our professional drivers are skilled and experienced, allowing you
-            to focus on enjoying the ride without any worries.
+            At BLACKTRUCKME, we don't just provide party bus rentals in New
+            york—we go above and beyond to ensure your event runs smoothly. Our
+            professional drivers are skilled and experienced, allowing you to
+            focus on enjoying the ride without any worries.
           </Paragraph>
           <Paragraph>
             Professional Chauffeurs: Our drivers are not only courteous and
@@ -142,7 +142,7 @@ function PartBus() {
             Your Ultimate Party Awaits
           </Heading>
           <Paragraph>
-            BLACKTRUCKME is here to make your next celebration in Houston a
+            BLACKTRUCKME is here to make your next celebration in New york a
             resounding success. Whether you're planning an event in town or
             beyond, our party buses are ready to provide the luxury and
             excitement you deserve. Don’t let the opportunity to elevate your

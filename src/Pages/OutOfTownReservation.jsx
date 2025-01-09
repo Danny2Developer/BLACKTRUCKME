@@ -44,7 +44,7 @@ function OutOfTownReservation() {
         <Section>
           <div className=" absolute bottom-[30px] md:bottom-[60px]">
             <h1 className="font-semibold font-dmsans md:text-3xl text-2xl md:w-full w-full xs:w-[90%] lg:text-4xl tracking-wide ">
-              Not in Houston?
+              Not in New york?
             </h1>
             <p className=" font-monts font-semibold text-md  md:mt-7 mt-[10px]">
               We'll come to you!
@@ -81,7 +81,11 @@ function OutOfTownReservation() {
               <p className="font-monts text-sm mb-[10px] font-semibold">
                 Do you live at this location or are you flying in?
               </p>
-              <RadioGroup className="font-dmsans " orientation="horizontal" color="primary">
+              <RadioGroup
+                className="font-dmsans "
+                orientation="horizontal"
+                color="primary"
+              >
                 <Radio value="I_live_here">I live here</Radio>
                 <Radio value="I'm_flying_in">I'm flying in</Radio>
               </RadioGroup>

@@ -169,48 +169,6 @@ function Cars() {
           />
         </form>
         <div className="flex items-center gap-[20px]">
-          {/* <form action="" className="text-syne w-full md:w-auto font-syne">
-            <div className="form-control w-full md:w-[250px]">
-              <select onChange={handleFilter} className="select select-bordered w-full bg-transparent border-sec border-2 focus:border-sec text-white">
-                <option value="All" selected className="text-black text-[16px]">
-                  All
-                </option>
-                <option value="Sports Car" className="text-black text-[16px]">
-                  Sports Cars
-                </option>
-                <option value="Muscle car" className="text-black text-[16px]">
-                  Muscle Cars
-                </option>
-                <option value="Luxury Suv" className="text-black text-[16px]">
-                  Luxury Suvs
-                </option>
-                <option value="Luxury Car" className="text-black text-[16px]">
-                  Luxury Cars
-                </option>
-                <option value="Super Car" className="text-black text-[16px]">
-                  Super Cars
-                </option>
-                <option value="Super Suv" className="text-black text-[16px]">
-                  Super Suvs
-                </option>
-                <option value="Limozin" className="text-black text-[16px]">
-                  Limozin
-                </option>
-              </select>
-            </div>
-          </form> */}
-          {/* <form action="" className="text-syne w-full md:w-auto font-syne">
-            <div className="form-control w-full md:w-[250px]">
-              <select  className="select select-bordered w-full bg-transparent border-sec border-2 focus:border-sec text-white">
-                <option selected className="text-black text-[16px]">
-                  Filter By Status
-                </option>
-                <option className="text-black text-[16px]">active</option>
-                <option className="text-black text-[16px]">Rented</option>
-                <option className="text-black text-[16px]">Retired</option>
-              </select>
-            </div>
-          </form> */}
         </div>
       </div>
       <div className="w-full rounded-lg shadow-xs mt-[20px] md:mt-[40px]">

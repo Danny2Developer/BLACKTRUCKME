@@ -20,7 +20,7 @@ function Header() {
           </div>
           <div className=" z-[2] absolute left-[25px] md:left-[50px] xl:left-[120px] mt-[20px] md:mt-[60px]">
             <h3 className="text-[25px] xs:text-[37px] sm:text-[50px] lg:text-[62px] font-harma font-bold xs:leading-[2rem] tracking-tight xs:whitespace-nowrap">
-              HOUSTON'S ULTIMATE
+              NEW YORK'S ULTIMATE
             </h3>
             <h1 className="text-[25px] mt-[-10px] xs:mt-0 lg:mt-[10px] xs:text-[37px] sm:text-[50px] lg:text-[62px] font-harma font-bold uppercase tracking-tight">
               Rental Experience

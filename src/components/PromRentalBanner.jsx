@@ -14,7 +14,7 @@ function PromRentalBanner() {
           </h1>
           <p className="text-[14.5px] font-monts">
             The right car makes a statement. Elevate your prom night with a
-            luxury or exotic car from BLACKTRUCKME. We offer Houston’s most
+            luxury or exotic car from BLACKTRUCKME. We offer New york’s most
             exclusive selection of luxury and exotic cars, perfect for making
             your prom entrance unforgettable. Whether you’re arriving in a sleek
             Ferrari, a stylish Lamborghini, or another luxury vehicle, pulling

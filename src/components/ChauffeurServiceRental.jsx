@@ -36,7 +36,7 @@ function ChauffeurServiceRental() {
             romantic date, a business outing, or a night on the town. Forget the
             hassle of parking, navigating traffic, or finding directions.
             Instead, sit back, relax, and enjoy the luxury of being driven in
-            one of the most exclusive vehicles in Houston. <br />
+            one of the most exclusive vehicles in New york. <br />
             <br className="md:block hidden" />
             Whether you're attending the biggest concert of the year, a
             star-studded premiere, or a major sporting event, make a statement

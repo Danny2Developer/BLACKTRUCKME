@@ -112,7 +112,7 @@ function PromCarRental() {
         <Paragraph className={"mt-[10px]"}>
           The right car makes a statement, and there's no better way to make an
           entrance at your prom than with a luxury or exotic car from Dream
-          Charters. We offer Houston’s most exclusive selection of luxury and
+          Charters. We offer New york’s most exclusive selection of luxury and
           exotic cars, perfect for making your prom night one to remember.
           Whether you’re arriving in a Ferrari, Lamborghini, or Rolls Royce,
           pulling up in one of these stunning cars will turn heads and make your
@@ -153,7 +153,7 @@ function PromCarRental() {
           perfect arrival that matches your vision for the night.
         </Paragraph>
         <Heading className={"mt-[15px] md:mt-[30px]"}>
-          Questions About Prom Car Rentals in Houston?
+          Questions About Prom Car Rentals in New york?
         </Heading>
         <Paragraph className={"mt-[10px]"}>
           If you have any questions about our prom car rental service,

@@ -113,11 +113,11 @@ function BabyShower() {
         <Paragraph className={"mt-[10px]"}>
           The right car makes a statement, and there’s no better way to elevate
           your baby shower than with a luxury or exotic car from BLACKTRUCKME.
-          We offer Houston’s most exclusive selection of luxury and exotic cars,
-          perfect for making your celebration one to remember. Whether you’re
-          arriving in a Ferrari, Lamborghini, or Rolls Royce, pulling up in one
-          of these stunning cars will add a touch of elegance and style to your
-          special day.
+          We offer New york’s most exclusive selection of luxury and exotic
+          cars, perfect for making your celebration one to remember. Whether
+          you’re arriving in a Ferrari, Lamborghini, or Rolls Royce, pulling up
+          in one of these stunning cars will add a touch of elegance and style
+          to your special day.
         </Paragraph>
         <div className=" cars grid gap-y-[40px] md:gap-y-[70px] gap-[20px] grid-cols-1 lg:grid-cols-3  2xl:max-w-[1440px] 2xl:px-0 mx-auto md:mb-[80px] mt-[40px] md:mt-[80px]">
           <CarCard cars={Cars} onPress={onOpen} />
@@ -156,7 +156,7 @@ function BabyShower() {
           shower.
         </Paragraph>
         <Heading className={"mt-[15px] md:mt-[30px]"}>
-          Questions About Baby Shower Car Rentals in Houston?
+          Questions About Baby Shower Car Rentals in New york?
         </Heading>
         <Paragraph className={"mt-[10px]"}>
           If you have any questions about our baby shower car rental service,

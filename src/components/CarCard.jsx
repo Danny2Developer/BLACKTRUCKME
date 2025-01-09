@@ -51,7 +51,7 @@ function CarCard({ link, party, prices, onPress, cars }) {
               <SwiperSlide className="">
                 <img
                   src={carIMG}
-                  className="max-w-full h-full relative z-[1] object-cover object-center"
+                  className="w-full md:max-w-full h-full relative z-[1] object-cover object-center"
                   alt="car"
                 />
               </SwiperSlide>

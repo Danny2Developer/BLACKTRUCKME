@@ -70,7 +70,7 @@ function WeddingRental() {
         <Section>
           <div className=" absolute bottom-[60px] md:w-[40%] pe-[25px]">
             <h1 className="font-semibold font-dmsans md:text-3xl text-2xl md:w-full w-full xs:w-[90%] lg:text-4xl tracking-wide ">
-              Wedding Car Rental in Houston
+              Wedding Car Rental in New york
             </h1>
             <Link to="/sepcial-event-reservsation">
               <Button
@@ -89,7 +89,7 @@ function WeddingRental() {
           If you or a loved one has their special day coming up, you want them
           to have the best experience they can get. A wedding should be a
           once-in-a-lifetime experience, which is why you need a wedding car
-          rental in Houston.
+          rental in New york.
         </Paragraph>
         <Paragraph className={"mt-[10px] md:mt-[20px]"}>
           With BLACKTRUCKME, we’re not offering a standard limo. We know you
@@ -98,7 +98,7 @@ function WeddingRental() {
         </Paragraph>
         <Paragraph className={"mt-[10px] md:mt-[20px]"}>
           BLACKTRUCKME is pleased to offer exotic car rental delivery services
-          both in and outside of the Houston area. We can bring our amazing
+          both in and outside of the New york area. We can bring our amazing
           vehicles to you so that you don’t have to take time out of your busy
           schedule to pick one up.
         </Paragraph>
@@ -140,12 +140,12 @@ function WeddingRental() {
           </Paragraph>
           <Paragraph>
             BLACKTRUCKME is here to provide you with the wedding car rental in
-            Houston that will blow the minds of your guests.
+            New york that will blow the minds of your guests.
           </Paragraph>
         </div>
         <div className="mt-[50px] md:mt-[40px] mb-[35px] md:mb-[80px]">
           <div className=" cars grid gap-y-[40px] md:gap-y-[70px] gap-[20px] grid-cols-1 lg:grid-cols-3 mt-[50px] 2xl:max-w-[1440px] 2xl:px-0 mx-auto ">
-            <CarCard cars={Cars} link/>
+            <CarCard cars={Cars} link />
           </div>
         </div>
         <Paragraph className={"mt-[15px] md:mt-[40px] mb-[20px] md:mb-[30px]"}>
@@ -174,7 +174,7 @@ function WeddingRental() {
           A personal driver from Dream Charter is a professional who can not
           only drop you off, but take you to your next destination. Whether
           you’re going to the airport for a long distance honeymoon, or one of
-          Houston’s amazing resort hotels, we can get you there.
+          New york’s amazing resort hotels, we can get you there.
         </Paragraph>
         <Paragraph className={"mb-[15px] md:mb-[30px]"}>
           Driving drunk is never worth the risk, especially when it could ruin

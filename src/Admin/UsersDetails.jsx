@@ -204,7 +204,7 @@ function UsersDetails() {
               </div>
               <input
                 type="text"
-                value={"Houston"}
+                value={"New york"}
                 className="input input-bordered w-full bg-transparent border-sec border-2 focus:border-sec text-white"
               />
             </div>
@@ -214,7 +214,7 @@ function UsersDetails() {
               </div>
               <input
                 type="text"
-                value={"Houston"}
+                value={"New york"}
                 className="input input-bordered w-full bg-transparent border-sec border-2 focus:border-sec text-white"
               />
             </div>
